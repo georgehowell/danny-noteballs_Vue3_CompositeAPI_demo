@@ -1,0 +1,7 @@
+{
+  "name": "composition-api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
